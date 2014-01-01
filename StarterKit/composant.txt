@@ -1,0 +1,38 @@
+Contenu du kit :
+ 
+/* Interactions */
+Tilt sensor (angle droit) x2 (Ref : RBS040200)
+BuzzerPiezo x1 (Ref : PB305-ROX)
+Poussoir	 x2 (Ref : FSM101)
+Photorésistance	 x1 (Ref : CE5-09)
+Potentiomètre x1 (Ref : P160KN-0QC15B10K)
+Potentiomètre	 x1 (Ref : PTA2043-2015DPB103)
+Capteur vibrations	 x1 (Ref : LDTM-028K)
+Capteur température	 x1 (Ref : LM35DZ)
+Servomoteur	 x1 (Ref : TGY-90S)
+ 
+/* Composants */
+BreadBoard	 x2
+Kit de fils Snootlab	 x2
+Boitier	estampillé Snootlab	 x1
+R_trav_150R_5%_1/4W (Marron/Vert/Marron)	x15
+R_trav_1kR_5%_1/4W (Marron/Noir/Rouge)	x10
+R_trav_10kR_5%_1/4W (Marron/Noir/Orange)	x10
+R_trav_100kR_5%_1/4W (Marron/Noir/Jaune)	x10
+R_trav_1MR_5%_1/4W (Marron/Noir/Vert)	x10
+R_trav_10MR_5%_1/4W (Marron/Noir/Bleu) x10
+led verte-3mm	 x5
+led jaune-3mm	 x5
+led rouge-3mm	 x5
+led verte-10mm	 x1
+led jaune-10mm	 x1
+led rouge-10mm	 x1
+led bleue-10mm	 x1
+led RGB-5mm	 x1
+ 
+/* Circuits intégrés */
+Transistor de puissance	 x3 (Ref : TIP102)
+Transistor d'usage général	 x3 (Ref : P2N2222AG)
+Huit rangées de montage Darlington	 x1 (Ref : ULN2803AN)
+Registre à décalage	 x1 (Ref : M74HC595)
+Amplificateur Opérationnel	 x1 (Ref : LM358N)

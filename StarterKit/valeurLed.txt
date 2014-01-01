@@ -1,0 +1,17 @@
+Leds monochromes
+10 mm Rouge : Uf (20mA) : 2V => R = 150 ohm 1/8W (marron vert marron doré)
+10 mm Verte : Uf (20mA) : 3V => R = 100 ohm 1/8W (marron noir marron doré)
+10 mm Bleue : Uf (20mA) : 3V => R = 100 ohm 1/8W (marron noir marron doré)
+10 mm Jaune : Uf (20mA) : 2V => R = 150 ohm 1/8W (marron vert marron doré)
+3mm Rouge : Uf (20mA) : 2.2V => R = 150 ohm 1/8W (marron vert marron doré)
+3mm Verte : Uf (30mA) : 2.5V => R = 100 ohm 1/4W (marron noir marron doré)
+3mm jaune : Uf (20mA) : 2.2V => R = 150 ohm 1/8W (marron vert marron doré)
+
+Led 5 mm RGB
+Rouge : Uf (20mA) : 2V => R = 150 ohm 1/8W (marron vert marron doré)
+Vert : Uf (20mA) : 3.5V => R = 82 ohm 1/8W (gris rouge noir doré)
+Bleu : Uf (20mA) : 3.5V => R = 82 ohm 1/8W (gris rouge noir doré)
+Pin : vert - anode commune - bleu - rouge (courte - longue - courte - courte)
+
+http://led.linear1.org/1led.wiz
+http://www.dcode.fr/code-couleur-resistance
