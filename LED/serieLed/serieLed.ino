@@ -1,8 +1,9 @@
-const int ROUGE_1=6; //declaration constante de broche
-const int ORANGE_1=5; //declaration constante de broche
-const int VERT_1=3; //declaration constante de broche
-const int ORANGE_2=9; //declaration constante de broche
-const int VERT_2=10; //declaration constante de broche
+//Define des constantes de broche
+#define ROUGE_1  6
+#define ORANGE_1 5
+#define VERT_1   3
+#define ORANGE_2 9
+#define VERT_2   10
 
 void setup()
 {
